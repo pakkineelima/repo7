@@ -1,0 +1,1 @@
+<img src="cinqueterre.jpg" class="img-rounded" alt="Cinque Terre">

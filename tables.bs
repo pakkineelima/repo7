@@ -1,0 +1,8 @@
+The .table-striped class adds zebra-stripes to a table:
+
+Example
+Firstname	Lastname	Email
+John	Doe	john@example.com
+Mary	Moe	mary@example.com
+July	Dooley	july@example.com
+
