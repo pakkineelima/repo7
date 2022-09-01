@@ -7,7 +7,7 @@
 </div>
 
 <div class="alert alert-warning">
-  <strong>Warning!</strong> Indicates a warning that might need attention.
+  <strong>Warning!</strong> warning that needs attention.
 </div>
 
 <div class="alert alert-danger">
